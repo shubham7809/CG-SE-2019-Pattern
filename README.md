@@ -1,1 +1,1 @@
-# CG-SE-2019-Pattern
+Second year Computer Graphics Codes In C++
